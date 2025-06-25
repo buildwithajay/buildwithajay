@@ -9,8 +9,7 @@
 
 - 👯 I’m looking to collaborate on **team-driven tech projects, preferably involving React, Express, Docker, or AWS — especially those that simulate real-world production environments.**
 
-- 👨‍💻 All of my projects are available at [portfolio-zeta-eight-73.vercel.app](portfolio-zeta-eight-73.vercel.app)
-
+- 👨‍💻 All of my projects are available at [https://portfolio-gray-two-27.vercel.app/](https://portfolio-gray-two-27.vercel.app/)
 - 💬 Ask me about **JavaScript, React, Docker, Kubernetes, Linux**
 
 - 📫 How to reach me **poudelajay547@gmail.com**
